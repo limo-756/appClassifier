@@ -8,6 +8,7 @@ import sys
 # curl --data "ids=com.uc.browser.en&xhr=1&hl=en" https://play.google.com/store/xhr/getdoc?authuser=0 --silent
 # curl --data "ids=com.whatsapp&xhr=1&hl=en" https://play.google.com/store/xhr/getdoc?authuser=0 --silent > 4.txt
 # curl --data "ids=com.facebook.orca&xhr=1&hl=en" https://play.google.com/store/xhr/getdoc?authuser=0 --silent > 5.txt
+# curl --data "ids=com.truecaller&xhr=1&hl=en" https://play.google.com/store/xhr/getdoc?authuser=0 --silent > 5.txt
 html = urlopen(sys.argv[1])
 bsObj = BeautifulSoup(html.read())
 s = bsObj.findAll("div",{"class":"details-wrapper","class":"details-section metadata"})

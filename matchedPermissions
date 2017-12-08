@@ -1,28 +1,32 @@
 add or remove accounts
+add voicemail
 approximate location (network-based)
+bind to a notification listener service
 change network connectivity
 change your audio settings
-control Near Field Communication
 control vibration
 create accounts and set passwords
+directly call any phone numbers
 directly call phone numbers
+disable your screen lock
 download files without notification
 draw over other apps
 edit your text messages (SMS or MMS)
 find accounts on the device
 full network access
 install shortcuts
+MMS Wakeup
 modify or delete the contents of your USB storage
+modify system settings
 modify your contacts
-pair with Bluetooth devices
 precise location (GPS and network-based)
 prevent device from sleeping
-read battery statistics
+read calendar events plus confidential information
 read call log
-read Google service configuration
 read phone status and identity
 read sync settings
 read the contents of your USB storage
+read voicemail
 read your contacts
 read your own contact card
 read your text messages (SMS or MMS)
@@ -33,8 +37,12 @@ record audio
 reroute outgoing calls
 run at startup
 send SMS messages
-send sticky broadcast
 take pictures and videos
 toggle sync on and off
+uninstall shortcuts
+use accounts on the device
+use any media decoder for playback
 view network connections
 view Wi-Fi connections
+write call log
+write voicemails
