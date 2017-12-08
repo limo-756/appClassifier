@@ -1,0 +1,132 @@
+
+  [
+   ["gdar",1,
+    [
+     ["com.rovio.angrybirdsspace.ads","com.rovio.angrybirdsspace.ads",1,3,"/store/apps/details?id\u003dcom.rovio.angrybirdsspace.ads","/store/apps/details?id\u003dcom.rovio.angrybirdsspace.ads","https://play.google.com/store/apps/details?id\u003dcom.rovio.angrybirdsspace.ads","https://market.android.com/details?id\u003dcom.rovio.angrybirdsspace.ads","Angry Birds Space","The #1 mobile game of all time blasts off into space!\u003cbr\u003e\u003cbr\u003ePlay over 300 interstellar levels across 10 planets – including our very own Solar System!\u003cbr\u003e\u003cbr\u003eWhether it’s the icy orbs of Cold Cuts, the volcanic explosiveness of Red Planet, Utopia – a planet made entirely of junk food, or even our own Solar System, each episode offers intergalactic fun at every turn! And the low-gravity environment of space results in spectacular gameplay ranging from slow-motion puzzles to lightspeed destruction. With brand new birds, special abilities, and a whole galaxy to explore, the sky is no longer the limit!\u003cbr\u003e\u003cbr\u003e-----\u003cbr\u003e\u003cbr\u003e“Intergalactic phenomenon worth every penny” – AppCraver\u003cbr\u003e\u003cbr\u003e“Takes the fundamental physics-based flinging of the original and turns it on its head... It\u0026#39;s satisfying, yet completely familiar, and is heaps of pig-smashing fun.” – Gamespot\u003cbr\u003e\u003cbr\u003e“Anyone burnt out on vanilla bird flinging will enjoy the game\u0026#39;s out-of-this-world adventure.” -- IGN\u003cbr\u003e\u003cbr\u003e-----\u003cbr\u003e\u003cbr\u003e- Over 300 interstellar levels!\u003cbr\u003e- New playable characters!\u003cbr\u003e- Unique special abilities for each bird!\u003cbr\u003e- Zero-gravity space adventures!\u003cbr\u003e- Trick shots using planets’ gravity!\u003cbr\u003e- Hidden bonus levels!\u003cbr\u003e- Beautifully detailed backgrounds!\u003cbr\u003e- Daily Missions!\u003cbr\u003e\u003cbr\u003e-----\u003cbr\u003e\u003cbr\u003eJoin the global phenomenon as it goes galactic!\u003cbr\u003e\u003cbr\u003eBecome a fan of Angry Birds on Facebook:\u003cbr\u003ehttp://facebook.angrybirds.com\u003cbr\u003e\u003cbr\u003eFollow us on Twitter:\u003cbr\u003ehttp://twitter.angrybirds.com\u003cbr\u003e\u003cbr\u003eTerms of Use: http://www.rovio.com/eula\u003cbr\u003ePrivacy Policy: http://www.rovio.com/privacy\u003cbr\u003e\u003cbr\u003eThis application may require internet connectivity and subsequent data transfer charges may apply.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eImportant Message for Parents\u003cbr\u003e\u003cbr\u003eThis game may include:\u003cbr\u003e- Direct links to social networking websites that are intended for an audience over the age of 13.\u003cbr\u003e- Direct links to the internet that can take players away from the game with the potential to browse any web page.\u003cbr\u003e- Advertising of Rovio products and also products from select partners.\u003cbr\u003e- The option to make in-app purchases. The bill payer should always be consulted beforehand.",null,
+      [
+       [4,null,null,null,"https://lh5.ggpht.com/CXqjoN_u3sFyV_Z1M7E-4KmyI0tYe5FLHV5KosQC-0s5LsZuhm4omg-5nP6VBpIwilI",null,"",null,1,null,null,null,null,null,null,null,null,null,null,null,null,0],
+       [2,null,null,null,"https://lh3.googleusercontent.com/j5bmKbbg3RWSRnhIXpFi2qbQsicZ7dOFBeOdwneffSQaYWqVHYuJxNwKDCQDY9nEDUA",null,"",null,1,null,null,null,null,null,null,null,null,null,null,null,null,0],
+       [3,null,null,null,"https://www.youtube.com/embed/g6AL9YqRHaI?ps\u003dplay\u0026vq\u003dlarge\u0026rel\u003d0\u0026autohide\u003d1\u0026showinfo\u003d0\u0026autoplay\u003d1",null,"https://www.youtube.com/embed/g6AL9YqRHaI?ps\u003dplay\u0026vq\u003dlarge\u0026rel\u003d0\u0026autohide\u003d1\u0026showinfo\u003d0\u0026autoplay\u003d1",null,0,null,null,null,null,null,null,null,null,null,null,null,null,0],
+       [13,null,null,null,"http://i.ytimg.com/vi/g6AL9YqRHaI/hqdefault.jpg",null,"",null,0,null,null,null,null,null,null,null,null,null,null,null,null,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/Oh_Lx5Y1821M-N5pTKzrjsAzYchBTpUHsuWO3RqCiok_EQjgblbTXKMqI0tpy3HIw4k",null,"",0,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/BvLexDIa8Q_j_DfeJUq_QtHGyeqyDXEuGCTS3SHm1WIZPvDKyUGkQhncXRpq6xrmBi0",null,"",1,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/t6l6sEI3ZZ7WCNvAsPTh190kGKi5_m3DElT4rUEDswF4noKrhS4OwA5O6QUjeM4d6tyS",null,"",2,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/6PGJZXjsSIuX84Qvgzv7AdXRatSKuvGaHHljLD3zqdGsZ4kUOcPzJ_AHl1b4bNs7TQE",null,"",3,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/-kRhpwcLwjs_IKZvBeL3LcsVA905X8WHTx9A9Jfd6Dinu5wC0IycxuQ2oCK7PqyzIg",null,"",4,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/0sgmqIVi7CNYbqb_9z7QZbhAxAjQgzZDAYayee4A6A9VhAi_3u_B8SI5mxLhL4e7dQ",null,"",10,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/sOpMPaO-PkUcV3MMBV1ZMcJajrZMhtaqGJ4X0GMIDhZqSVQdbTjiR3s5_xxrke7NvXCH",null,"",11,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/odnD1Jx-4HmmXQmJeCro_qYNOsYN7pjBEYxFghrKqeeIxyyLLxNzS8X2j5nOgQj7Kr0",null,"",12,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/Cv-5wJCP92e0OklfV48RHgdNGQrodz0NhOJyuSCTo8u3YnsduAkRGq4SvI4FKfHHu2mI",null,"",13,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/eHE0PBUu4VV8hw8QP6LynVEQYCBTvUCakYg-1vjC1xlHG4rTxdQENvnBXWvcavvEzA",null,"",14,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/HMHtEudeZCYPep_JJYB5LAH8DrpoFTLfWDAx0pkI90NFgVXr6twiv0Z8YThrnYaOyg",null,"",5,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/hW3O3Ay7oU6iRhHlcZX93KUpTTKazt-5QJXP5O4HTHee9ISrnVY4JKzVokFxle8K0U4",null,"",6,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/ie1vbSHt_CAoS5NAnlCtG1PGcdwkKwhwlSswtAB-RynFgPT82mCphzls2VedIyX9v2Q",null,"",7,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/GqOafuwcnS1dysT3teCCzUAhJ46dPQFLhDXzp8xwZowkD04738erlJbnFmAnP6S9OQ",null,"",8,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/rNrnNKyj2Dfyih09055yf779pYXavWJw4nA2cz5yVIzUj8hvevkzEJUO64A_uWwZ8Q",null,"",9,1,null,null,null,null,null,null,null,null,null,null,null,4,0]],null,
+      [
+       ["com.rovio.angrybirdsspace.ads","Free","",null,0,0,1,null,"https://play.google.com/store/apps/details?id\u003dcom.rovio.angrybirdsspace.ads\u0026rdid\u003dcom.rovio.angrybirdsspace.ads\u0026feature\u003dmd\u0026rdot\u003d1",null,null,null,null,null,null,0,null,null,null,null,null,null,null,null,"Free","USD","Install",0,null,null,"0",null,null,"USD",0,null,null,"",null,1,null,null,0]],
+      [
+       ["Arcade","/store/apps/category/GAME_ARCADE"]],
+      [0,0,null,0,0,null,0,null,0,0,null,null,null,0,null,0,0,0,0,null,0,0,0,0],4.364682,1242040,"//lh5.ggpht.com/CXqjoN_u3sFyV_Z1M7E-4KmyI0tYe5FLHV5KosQC-0s5LsZuhm4omg-5nP6VBpIwilI\u003dw150","apps",
+      [
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/Oh_Lx5Y1821M-N5pTKzrjsAzYchBTpUHsuWO3RqCiok_EQjgblbTXKMqI0tpy3HIw4k",null,"",0,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/BvLexDIa8Q_j_DfeJUq_QtHGyeqyDXEuGCTS3SHm1WIZPvDKyUGkQhncXRpq6xrmBi0",null,"",1,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/t6l6sEI3ZZ7WCNvAsPTh190kGKi5_m3DElT4rUEDswF4noKrhS4OwA5O6QUjeM4d6tyS",null,"",2,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/6PGJZXjsSIuX84Qvgzv7AdXRatSKuvGaHHljLD3zqdGsZ4kUOcPzJ_AHl1b4bNs7TQE",null,"",3,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [960,640,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/-kRhpwcLwjs_IKZvBeL3LcsVA905X8WHTx9A9Jfd6Dinu5wC0IycxuQ2oCK7PqyzIg",null,"",4,1,null,null,null,null,null,null,null,null,null,null,null,1,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/HMHtEudeZCYPep_JJYB5LAH8DrpoFTLfWDAx0pkI90NFgVXr6twiv0Z8YThrnYaOyg",null,"",5,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/hW3O3Ay7oU6iRhHlcZX93KUpTTKazt-5QJXP5O4HTHee9ISrnVY4JKzVokFxle8K0U4",null,"",6,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/ie1vbSHt_CAoS5NAnlCtG1PGcdwkKwhwlSswtAB-RynFgPT82mCphzls2VedIyX9v2Q",null,"",7,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/GqOafuwcnS1dysT3teCCzUAhJ46dPQFLhDXzp8xwZowkD04738erlJbnFmAnP6S9OQ",null,"",8,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1920,1080,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/rNrnNKyj2Dfyih09055yf779pYXavWJw4nA2cz5yVIzUj8hvevkzEJUO64A_uWwZ8Q",null,"",9,1,null,null,null,null,null,null,null,null,null,null,null,4,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/0sgmqIVi7CNYbqb_9z7QZbhAxAjQgzZDAYayee4A6A9VhAi_3u_B8SI5mxLhL4e7dQ",null,"",10,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/sOpMPaO-PkUcV3MMBV1ZMcJajrZMhtaqGJ4X0GMIDhZqSVQdbTjiR3s5_xxrke7NvXCH",null,"",11,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/odnD1Jx-4HmmXQmJeCro_qYNOsYN7pjBEYxFghrKqeeIxyyLLxNzS8X2j5nOgQj7Kr0",null,"",12,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/Cv-5wJCP92e0OklfV48RHgdNGQrodz0NhOJyuSCTo8u3YnsduAkRGq4SvI4FKfHHu2mI",null,"",13,1,null,null,null,null,null,null,null,null,null,null,null,3,0],
+       [1,
+        [1024,768,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.googleusercontent.com/eHE0PBUu4VV8hw8QP6LynVEQYCBTvUCakYg-1vjC1xlHG4rTxdQENvnBXWvcavvEzA",null,"",14,1,null,null,null,null,null,null,null,null,null,null,null,3,0]],null,"1,242,040","4.4",
+      [
+       [
+        ["880,886","100%"],
+        ["153,289","17%"],
+        ["77,227","8%"],
+        ["41,205","4%"],
+        ["89,433","10%"]]],null,
+      [],"Free",
+      [],
+      [],null,null,null,null,null,null,
+      [],
+      [
+       []],null,
+      [],null,"The #1 mobile game of all time blasts off into space!\u003cbr\u003e\u003cbr\u003ePlay over 300 interstellar levels across 10 planets – including our very own Solar System!\u003cbr\u003e\u003cbr\u003eWhether it’s the icy orbs of Cold Cuts, the volcanic explosiveness of Red Planet, Utopia – a planet made entirely of junk food, or even our own Solar System, each episode offers intergalactic fun at every turn! And the low-gravity environment of space results in spectacular gameplay ranging from slow-motion puzzles to lightspeed destruction. With brand new birds, special abilities, and a whole galaxy to explore, the sky is no longer the limit!\u003cbr\u003e\u003cbr\u003e-----\u003cbr\u003e\u003cbr\u003e“Intergalactic phenomenon worth every penny” – AppCraver\u003cbr\u003e\u003cbr\u003e“Takes the fundamental physics-based flinging of the original and turns it on its head... It\u0026#39;s satisfying, yet completely familiar, and is heaps of pig-smashing fun.” – Gamespot\u003cbr\u003e\u003cbr\u003e“Anyone burnt out on vanilla bird flinging will enjoy the game\u0026#39;s out-of-this-world adventure.” -- IGN\u003cbr\u003e\u003cbr\u003e-----\u003cbr\u003e\u003cbr\u003e- Over 300 interstellar levels!\u003cbr\u003e- New playable characters!\u003cbr\u003e- Unique special abilities for each bird!\u003cbr\u003e- Zero-gravity space adventures!\u003cbr\u003e- Trick shots using planets’ gravity!\u003cbr\u003e- Hidden bonus levels!\u003cbr\u003e- Beautifully detailed backgrounds!\u003cbr\u003e- Daily Missions!\u003cbr\u003e\u003cbr\u003e-----\u003cbr\u003e\u003cbr\u003eJoin the global phenomenon as it goes galactic!\u003cbr\u003e\u003cbr\u003eBecome a fan of Angry Birds on Facebook:\u003cbr\u003ehttp://facebook.angrybirds.com\u003cbr\u003e\u003cbr\u003eFollow us on Twitter:\u003cbr\u003ehttp://twitter.angrybirds.com\u003cbr\u003e\u003cbr\u003eTerms of Use: http://www.rovio.com/eula\u003cbr\u003ePrivacy Policy: http://www.rovio.com/privacy\u003cbr\u003e\u003cbr\u003eThis application may require internet connectivity and subsequent data transfer charges may apply.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eImportant Message for Parents\u003cbr\u003e\u003cbr\u003eThis game may include:\u003cbr\u003e- Direct links to social networking websites that are intended for an audience over the age of 13.\u003cbr\u003e- Direct links to the internet that can take players away from the game with the potential to browse any web page.\u003cbr\u003e- Advertising of Rovio products and also products from select partners.\u003cbr\u003e- The option to make in-app purchases. The bill payer should always be consulted beforehand.",0,null,null,null,
+      [],null,0,0,null,0,null,1,0,null,null,"The #1 mobile game of all time blasts off into space!",null,null,null,null,null,null,0,{"42656262":
+      [
+       ["Rovio Entertainment Corporation","/store/apps/dev?id\u003d9133452689932095671"],
+       [
+        [
+         [null,
+          [],0],
+         [null,
+          [
+           ["find accounts on the device","Allows the app to get the list of accounts known by the device. This may include any accounts created by applications you have installed.",1]],3]],
+        [
+         [null,
+          [
+           ["view network connections","Allows the app to view information about network connections such as which networks exist and are connected.",0],
+           ["full network access","Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.",0],
+           ["prevent device from sleeping","Allows the app to prevent the device from going to sleep.",0]]]],
+        [
+         ["receive data from Internet","Allows apps to accept cloud to device messages sent by the app's service. Using this service will incur data usage. Malicious apps could cause excess data usage.",1]],
+        []],"May 24, 2017",1,null,"100,000,000","500,000,000","2.2.12",0,"4.1",null,
+       ["We addressed some minor issues in order to improve the user experience. Thanks for playing, and keep popping those pigs!"],"https://www.google.com/url?q\u003dhttp://www.rovio.com\u0026sa\u003dD\u0026usg\u003dAFQjCNHvjmrRiO9nJs9iqJoCen5OEfYg9Q","https://www.google.com/url?q\u003dhttp://www.rovio.com/privacy\u0026sa\u003dD\u0026usg\u003dAFQjCNGt5frM4xE8I2NzBoydDHFuFHGA3g","support@rovio.com",null,null,null,1,"Rovio Entertainment Corporation\nKeilaranta 7,\nFI-02150 ESPOO\nFINLAND","₹ 70.00 - ₹ 4,550.00 per item",
+       ["Rated for 3+",null,
+        [null,
+         [512,487,null,null,null,null,null,null,null,null,null,null,null,null,null,0],null,null,"https://lh3.ggpht.com/bXpZ5wHFrvVNHmVxJylgZ3UsSrauQhW5NuQeZHL3lFQ4fvi9wAxn1nP5HDh7XWQkkbmW492EB_0WAuiXkd4",null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,0]],1,
+       [
+        [
+         [null,
+          [],0],
+         [null,
+          [
+           ["find accounts on the device","Allows the app to get the list of accounts known by the device. This may include any accounts created by applications you have installed.",1]],3],
+         [null,
+          [
+           ["find accounts on the device","Allows the app to get the list of accounts known by the device. This may include any accounts created by applications you have installed.",1]],5]],
+        [
+         [null,
+          [
+           ["view network connections","Allows the app to view information about network connections such as which networks exist and are connected.",0],
+           ["full network access","Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.",0],
+           ["prevent device from sleeping","Allows the app to prevent the device from going to sleep.",0]]]],
+        [
+         ["receive data from Internet","Allows apps to accept cloud to device messages sent by the app's service. Using this service will incur data usage. Malicious apps could cause excess data usage.",1]],
+        []]]}]]]]
