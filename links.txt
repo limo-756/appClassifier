@@ -1,0 +1,60 @@
+https://developers.google.com/android-publisher/
+https://rapidapi.com/user/maxcanna/package/Google%20Play%20Store
+https://github.com/chadrem/market_bot
+https://www.quora.com/Is-there-an-API-for-the-Google-Play-Store
+google play api
+https://code.google.com/archive/p/android-market-api/
+https://stackoverflow.com/questions/10272155/getting-data-from-android-play-store
+how to retrieve app info  from google play
+
+
+
+important useful links
+https://stackoverflow.com/questions/1649674/resolve-class-name-from-bytecode
+http://asm.ow2.org/
+https://gitlab.ow2.org/asm/asm
+
+
+extracting info from g-play
+https://stackoverflow.com/questions/5385957/how-to-get-apps-permission-for-each-app-how-to-do-it-programmatically-on-andro
+https://stackoverflow.com/questions/3280632/java-need-some-way-to-shorten-this-code
+https://developer.android.com/reference/android/content/pm/PackageManager.html#GET_PERMISSIONS
+
+Same question I'am looking for unanswered
+https://stackoverflow.com/questions/45946612/data-docid-python-2-7-playstore
+
+ASM CODE TO PRINT METHOD
+https://stackoverflow.com/questions/7984003/pretty-printing-a-method-in-asm-bytecode
+
+Read input from command line
+https://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable
+
+dex2jar
+https://stackoverflow.com/questions/13854425/how-to-avoid-reverse-engineering-of-an-apk-file
+https://github.com/pxb1988/dex2jar
+https://stackoverflow.com/questions/12732882/reverse-engineering-from-an-apk-file-to-a-project
+
+
+types and number of system calls
+http://www.opersys.com/blog/android-system-calls
+
+how to extract info as server request model
+https://stackoverflow.com/questions/28761377/how-to-get-permissions-information-from-an-app-in-playstore
+
+Permission complete list
+https://developer.android.com/reference/android/Manifest.permission.html
+https://gist.github.com/Arinerron/1bcaadc7b1cbeae77de0263f4e15156f
+
+curl --data "ids=com.kiloo.subwaysurf&xhr=1&hl=en" https://play.google.com/store/xhr/getdoc?authuser=0 --silent
+
+Androguard
+Guide to use it
+    https://forensics.spreitzenbarth.de/2015/10/05/androguard-a-simple-step-by-step-guide/
+    http://www.technotalkative.com/part-1-reverse-engineering-using-androguard/
+    https://docs.koodous.com/web/getting-started/
+installation
+    http://www.technotalkative.com/part-1-reverse-engineering-using-androguard/
+github
+    https://github.com/androguard/androguard
+
+/media/anurag/New\ Volume/SEM5/MINI_PROJECT/dex2jar-2.0/app-release.apk -o /media/anurag/New\ Volume/SEM5/MINI_PROJECT/aaa.txt
