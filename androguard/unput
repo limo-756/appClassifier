@@ -1,0 +1,3 @@
+a,d,dx = AnalyzeAPK("malware.apk", decompiler="dad")
+n
+a.get_permissions()

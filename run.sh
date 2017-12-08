@@ -6,5 +6,5 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
     curl --data $urlPath "https://play.google.com/store/xhr/getdoc?authuser=0" --silent > 0.txt
     java comparePermission 0.txt
     read -r line
-    echo $line
+    python androguard/binaryTraverse.py $line
 done < "$1"
