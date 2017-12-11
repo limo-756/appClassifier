@@ -29,6 +29,15 @@ dx = Analysis(d)
 # for m in d.get_methods()[:10]:
 #     print(m)
 # print(decompiler.get_source_method(m))
-print a.get_app_name()
+f=open("matchedPermissions", "a")
+f.write(a.get_app_name()+"\n")
 for i in a.get_permissions():
-    print i
+    f.write(i+"\n")
+f.write("#####\n")
+f.close()
+# with open("matchedPermissions", "a") as myfile:
+#     myfile.write(a.get_app_name())
+# # print a.get_app_name()
+# for i in a.get_permissions():
+#     myfile.write(i)
+# myfile.write("#####\n")

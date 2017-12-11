@@ -1,0 +1,192 @@
+add or remove accounts
+11
+reroute outgoing calls
+4
+control flashlight
+2
+read your own contact card
+7
+read your contacts
+12
+access USB storage filesystem
+8
+add or modify calendar events and send email to guests without owners' knowledge
+2
+modify your own contact card
+1
+receive text messages (MMS)
+2
+MMS Wakeup
+1
+full license to interact across users
+1
+full network access
+43
+receive text messages (SMS)
+10
+control Near Field Communication
+5
+change network connectivity
+10
+allow Bluetooth pairing by Application
+1
+precise location (GPS and network-based)
+19
+update component usage statistics
+3
+read battery statistics
+4
+read your social stream
+1
+view Wi-Fi connections
+27
+view network connections
+43
+read Google service configuration
+8
+measure app storage space
+3
+make app always run
+2
+read calendar events plus confidential information
+3
+approximate location (network-based)
+22
+run at startup
+23
+read call log
+6
+directly call phone numbers
+6
+read sync statistics
+4
+read voicemail
+1
+reorder running apps
+2
+control vibration
+27
+read your text messages (SMS or MMS)
+10
+read your Web bookmarks and history
+2
+modify your contacts
+7
+access Bluetooth settings
+5
+set wallpaper
+4
+retrieve running apps
+16
+delete apps
+1
+pair with Bluetooth devices
+12
+In-app purchases
+13
+download files without notification
+3
+install shortcuts
+16
+directly install apps
+1
+SmartcardServicePermission label
+1
+modify phone state
+1
+uninstall shortcuts
+8
+disable or modify status bar
+1
+write voicemails
+1
+read phone status and identity
+43
+toggle sync on and off
+10
+send sticky broadcast
+7
+find accounts on the device
+41
+change system display settings
+1
+record audio
+14
+draw over other apps
+17
+receive data from Internet
+33
+power device on or off
+1
+change your audio settings
+11
+Access download manager.
+1
+create accounts and set passwords
+11
+write web bookmarks and history
+1
+disable your screen lock
+5
+prevent device from sleeping
+37
+send SMS messages
+7
+delete all app cache data
+4
+write call log
+3
+Read email attachments
+1
+read Home settings and shortcuts
+9
+change screen orientation
+1
+edit your text messages (SMS or MMS)
+3
+connect and disconnect from Wi-Fi
+10
+allow Wi-Fi Multicast reception
+1
+read sync settings
+7
+use accounts on the device
+14
+modify or delete the contents of your USB storage
+38
+expand/collapse status bar
+4
+bind to a notification listener service
+1
+read sensitive log data
+4
+write Home settings and shortcuts
+8
+directly call any phone numbers
+1
+modify/delete internal media storage contents
+1
+modify system settings
+10
+set an alarm
+3
+adjust your wallpaper size
+3
+close other apps
+9
+manage document storage
+2
+use any media decoder for playback
+1
+read the contents of your USB storage
+38
+capture video output
+1
+Google Play license check
+2
+read frame buffer
+1
+add voicemail
+1
+take pictures and videos
+23

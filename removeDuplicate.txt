@@ -1,93 +1,97 @@
-access Bluetooth settings
-Access download manager
-access USB storage filesystem
-add or modify calendar events and send email to guests without owners' knowledge
-add or remove accounts
-add voicemail
-adjust your wallpaper size
-allow Wi-Fi Multicast reception
-approximate location (network-based)
-bind to a notification listener service
-change network connectivity
-change screen orientation
-change system display settings
-change your audio settings
-close other apps
-connect and disconnect from Wi-Fi
-control flashlight
-control Near Field Communication
-control vibration
-create accounts and set passwords
-delete all app cache data
-delete apps
-directly call any phone numbers
-directly call phone numbers
-directly install apps
-disable or modify status bar
-disable your screen lock
-download files without notification
-draw over other apps
-edit your text messages (SMS or MMS)
-expand/collapse status bar
-find accounts on the device
-full license to interact across users
-full network access
-Google Play license check
-In-app purchases
-install shortcuts
-make app always run
-manage document storage
-measure app storage space
-MMS Wakeup
-modify or delete the contents of your USB storage
-modify phone state
-modify system settings
-modify your contacts
-modify your own contact card
-modify/delete internal media storage contents
-pair with Bluetooth devices
-power device on or off
-precise location (GPS and network-based)
-prevent device from sleeping
-read battery statistics
-read calendar events plus confidential information
-read call log
-Read email attachments
-read frame buffer
-read Google service configuration
-read Home settings and shortcuts
-read phone status and identity
-read sensitive log data
-read sync settings
-read sync statistics
-read the contents of your USB storage
-read voicemail
-read your contacts
-read your own contact card
-read your social stream
-read your text messages (SMS or MMS)
-read your Web bookmarks and history
-receive data from Internet
-receive text messages (MMS)
-receive text messages (SMS)
-record audio
-reorder running apps
-reroute outgoing calls
 retrieve running apps
-run at startup
-send SMS messages
-send sticky broadcast
-set an alarm
-set wallpaper
+find accounts on the device
+add or remove accounts
+read your contacts
+modify your contacts
+approximate location (network-based)
+precise location (GPS and network-based)
+read phone status and identity
+access USB storage filesystem
+read the contents of your USB storage
+modify or delete the contents of your USB storage
 take pictures and videos
+view Wi-Fi connections
+close other apps
+adjust your wallpaper size
+modify/delete internal media storage contents
+receive data from Internet
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+connect and disconnect from Wi-Fi
+delete all app cache data
+disable your screen lock
+measure app storage space
+full network access
+change your audio settings
+set wallpaper
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+install shortcuts
+
+read sensitive log data
+power device on or off
+read sync statistics
+disable or modify status bar
+read Home settings and shortcuts
+write Home settings and shortcuts
+expand/collapse status bar
+make app always run
+run at startup
 toggle sync on and off
 uninstall shortcuts
-update component usage statistics
-use accounts on the device
-use any media decoder for playback
-view network connections
-view Wi-Fi connections
+read your own contact card
+receive text messages (SMS)
+send SMS messages
+record audio
+control Near Field Communication
+read sync settings
+read Google service configuration
+In-app purchases
+read calendar events plus confidential information
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+edit your text messages (SMS or MMS)
+directly call phone numbers
+directly call any phone numbers
+modify phone state
+reroute outgoing calls
+read call log
 write call log
-write Home settings and shortcuts
+add voicemail
+use any media decoder for playback
+bind to a notification listener service
+download files without notification
+MMS Wakeup
+read voicemail
 write voicemails
+delete apps
+directly install apps
+update component usage statistics
+Google Play license check
+control flashlight
+read your Web bookmarks and history
+Access download manager.
+full license to interact across users
+Read email attachments
+add or modify calendar events and send email to guests without owners' knowledge
+read battery statistics
+reorder running apps
+modify your own contact card
+manage document storage
+change system display settings
+allow Wi-Fi Multicast reception
+read your social stream
+read frame buffer
+change screen orientation
+set an alarm
 write web bookmarks and history
+allow Bluetooth pairing by Application
+SmartcardServicePermission label
+capture video output

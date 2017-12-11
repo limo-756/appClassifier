@@ -52,14 +52,38 @@ class comparePermission
                 }
             }
         }
-        FileWrite o = new FileWrite("matchedPermissions");
-        System.out.println(res.size());
-        for (int i=0;i < res.size() ;i++ )
-        {
-            o.writeContent(res.get(i)+"\n");
+        BufferedWriter bw = null;
+        try {
+            // APPEND MODE SET HERE
+            bw = new BufferedWriter(new FileWriter("matchedPermissions", true));
+            // bw.write("400:08311998:Inprise Corporation:249.95");
+            for (int i=0;i < res.size() ;i++ )
+            {
+                bw.write(res.get(i)+"\n");
+            }
+            bw.write("******\n");
+            bw.flush();
         }
-        o.fileClose();
-    }
+        catch (IOException ioe) {
+            ioe.printStackTrace();
+        }
+        finally {                       // always close the file
+             if (bw != null) try {
+                bw.close();
+             } catch (IOException ioe2) {
+                // just ignore it
+             }
+              } // end try/catch/finally
+
+           } // end test()
+
+        // FileWrite o = new FileWrite("matchedPermissions");
+        // System.out.println(res.size());
+        // for (int i=0;i < res.size() ;i++ )
+        // {
+        //     o.writeContent(res.get(i)+"\n");
+        // }
+        // o.fileClose();
 }
 class FileRead
 {
