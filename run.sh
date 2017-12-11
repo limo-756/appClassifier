@@ -1,4 +1,5 @@
 #!/bin/bash
+make
 while IFS='' read -r line || [[ -n "$line" ]]; do
     urlPath=$(echo $line | cut -d'=' -f 2)
     urlPath="ids="$urlPath"&xhr=1"
